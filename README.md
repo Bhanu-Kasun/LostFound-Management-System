@@ -18,7 +18,7 @@ A comprehensive Lost and Found Management System developed in C# with Windows Fo
 
 ## Setup Instructions:
 1. Clone the repository
-2. run the script file in 
+2. run the script file in Lost And Found System/db
 3. Update the connection string in `DatabaseHelper.cs`
 4. Run the SQL script to create the database schema
 5. Build and run the application
